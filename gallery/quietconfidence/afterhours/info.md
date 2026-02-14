@@ -4,17 +4,15 @@
 >
 > #ArtNoir #FilmNoir #QuietConfidence #AfterHours #BlackAndWhiteLife 
 
-**Model:**
+### Model
 - Flux.1 Krea [dev]
 
-**Settings:**
+### Settings
 - Steps: 32
 - Text Guidance: 2.5
 - Upscaler: Real-ESGRAN 4x
 - Sampler: DPM++ 2M AYS
 
-**Prompt:**
+### Prompt
 
-```prompt
-monochrome still life of a polished cocktail bar late at night, empty stools, a half-drunk martini glass, overhead pendant lights creating bright highlights on chrome and glass, long reflections stretching across the counter, deep blacks and shimmering whites, cinematic realism charged with tension, seduction, power and beauty in absence
-```
+> monochrome still life of a polished cocktail bar late at night, empty stools, a half-drunk martini glass, overhead pendant lights creating bright highlights on chrome and glass, long reflections stretching across the counter, deep blacks and shimmering whites, cinematic realism charged with tension, seduction, power and beauty in absence

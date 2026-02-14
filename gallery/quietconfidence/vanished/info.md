@@ -4,17 +4,15 @@
 >
 > #ArtNoir #FilmNoir #BlackAndWhite #MoodyPhotography #UrbanExploration
 
-**Model:**
+### Model
 - Flux.1 Krea [dev]
 
-**Settings:**
+### Settings
 - Steps: 32
 - Text Guidance: 2.5
 - Upscaler: Real-ESGRAN 4x
 - Sampler: DPM++ 2M AYS
 
-**Prompt:**
+### Prompt
 
-```prompt
-elegant hotel lobby at night in black and white, art-deco furniture and marble floor gleaming under ceiling lamps, faint haze of smoke drifting through light beams, empty reception desk, symmetrical composition from a low centered camera, deep focus and glossy reflections, cinematic lighting in silver-gelatin style with subtle film grain, aura of authority, tension, seduction, power and beauty in absence
-```
+> elegant hotel lobby at night in black and white, art-deco furniture and marble floor gleaming under ceiling lamps, faint haze of smoke drifting through light beams, empty reception desk, symmetrical composition from a low centered camera, deep focus and glossy reflections, cinematic lighting in silver-gelatin style with subtle film grain, aura of authority, tension, seduction, power and beauty in absence

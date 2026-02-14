@@ -4,17 +4,15 @@
 >
 > #ArtNoir #FilmNoir #SilentStrength #BlackAndWhiteMood #QuietConfidence
 
-**Model:**
+### Model
 - Flux.1 Krea [dev]
 
-**Settings:**
+### Settings
 - Steps: 32
 - Text Guidance: 2.5
 - Upscaler: Real-ESGRAN 4x
 - Sampler: DPM++ 2M AYS
 
-**Prompt:**
+### Prompt
 
-```prompt
-A high contrast black and white photograph shows the blurred silhouette of a man behind a frosted or translucent surface. The hand is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure and face. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.
-```
+> A high contrast black and white photograph shows the blurred silhouette of a man behind a frosted or translucent surface. The hand is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure and face. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.

@@ -27,7 +27,9 @@ gallery/quietconfidence/
 └── info.md           # Metadata, prompt inspiration, and usage notes
 ```
 
-## Disclaimer:
+---
+
+## ✋ Disclaimer
 > This work was generated using AI tools and is provided for aesthetic, personal, and non-commercial exploration.
 > While every effort has been made to ensure print quality, **I am not responsible for color accuracy, paper choice, printing errors, or final output from third-party services**.
 > Print at your own discretion — and let the stillness speak.

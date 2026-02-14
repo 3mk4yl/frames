@@ -9,7 +9,7 @@ A curated collection of AI-generated print-ready imagery exploring emotional qui
 *Where strength doesn’t shout.*
 
 - **Style**: Minimalist, tonal, high-contrast  
-- **Format**: 300 DPI, sRGB 70x50/50x70 (print-ready)  
+- **Format**: 300 DPI, sRGB, 70x50/50x70cm (print-ready)  
 - **Themes**: Solitude as power, stillness as authority, absence as composition  
 
 > _“The most powerful voice is the one that doesn’t need to fill the room.”_
@@ -22,7 +22,7 @@ A curated collection of AI-generated print-ready imagery exploring emotional qui
 
 ```markdown
 gallery/quietconfidence/
-├── preview.png       # Web-optimized preview (RGB, 2000px wide)
+├── preview.png       # Web-optimized preview (RGB, 1280px wide)
 ├── {photo}.tiff      # Print-ready master file (sRGB, 300 DPI, no compression)
 └── info.md           # Metadata, prompt inspiration, and usage notes
 ```

@@ -16,3 +16,7 @@
 ### Prompt
 
 > monochrome still life of a polished cocktail bar late at night, empty stools, a half-drunk martini glass, overhead pendant lights creating bright highlights on chrome and glass, long reflections stretching across the counter, deep blacks and shimmering whites, cinematic realism charged with tension, seduction, power and beauty in absence
+
+---
+
+![AfterHours](preview.png)

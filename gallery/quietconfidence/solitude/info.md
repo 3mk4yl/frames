@@ -16,3 +16,7 @@
 ### Prompt
 
 > A vast stretch of coastline in black and white, where the horizon dissolves into a haze of light. The sea is calm but restless, a slow, deliberate breathing. Waves roll in and break gently against the dark, glistening sand, leaving behind thin veins of foam that shimmer for a moment before fading back into the tide. A line of footprints leads from the dunes to the water’s edge, then vanishes where the surf erases all memory. Farther down the beach, an old wooden pier extends into the mist, its beams weathered, its reflection trembling in the shallow pools left by the retreating tide. Seagulls drift low, their cries faint and fleeting, swallowed by the wind. The air carries a quiet chill, heavy with salt and nostalgia. The sun, though unseen, presses softly against the horizon, casting long, pale gradients across the ocean’s skin. Everything feels still, not empty, but complete in its solitude. The world reduced to contrasts: water and sand, light and shadow, movement and memory. A moment that feels like silence made visible.
+
+---
+
+![Solitude](preview.png)

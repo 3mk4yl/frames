@@ -20,10 +20,10 @@ A curated collection of AI-generated print-ready imagery exploring emotional qui
 
 ## 📂 Directory
 
-gallery/quietconfidence/
-├── preview.png       # Web-optimized preview (RGB, 2000px wide)
-├── {photo}.tiff      # Print-ready master file (sRGB, 300 DPI, no compression)
-└── info.md           # Metadata, prompt inspiration, and usage notes
+>gallery/quietconfidence/
+>├── preview.png       # Web-optimized preview (RGB, 2000px wide)
+>├── {photo}.tiff      # Print-ready master file (sRGB, 300 DPI, no compression)
+>└── info.md           # Metadata, prompt inspiration, and usage notes
 
 ## Disclaimer:
 > This work was generated using AI tools and is provided for aesthetic, personal, and non-commercial exploration.

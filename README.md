@@ -18,15 +18,13 @@ A curated collection of AI-generated print-ready imagery exploring emotional qui
 
 ---
 
-## 📂 Directory
+## 📂 Folder structure 
 
 ```markdown
-```bash
 gallery/quietconfidence/
 ├── preview.png       # Web-optimized preview (RGB, 2000px wide)
 ├── {photo}.tiff      # Print-ready master file (sRGB, 300 DPI, no compression)
 └── info.md           # Metadata, prompt inspiration, and usage notes
-```
 ```
 
 ## Disclaimer:

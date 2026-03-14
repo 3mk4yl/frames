@@ -1,5 +1,9 @@
 ## Goodbye 
 
+![Goodbye](preview.png)
+
+---
+
 > There’s a kind of silence that doesn’t need to be broken—just felt. This hand, pressed hard against the glass, isn’t begging for escape. It’s claiming space. Not loud, not desperate—just here. The light behind it bleeds through like regret and resolve mixed together. Some confidence doesn’t speak. It stays still, in the dark, where it matters most.
 >
 > #ArtNoir #FilmNoir #SilentStrength #BlackAndWhiteMood #QuietConfidence
@@ -16,7 +20,3 @@
 ### Prompt
 
 > A high contrast black and white photograph shows the blurred silhouette of a man behind a frosted or translucent surface. The hand is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure and face. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.
-
----
-
-![Goodbye](preview.png)
